@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on applying everything AI: Cursor, Claude Code, and Agentic frameworks
 - 🌱 I’m continuously learning about development processes, flow engineering, and developer experience
 - 💬 Ask me about developing consumer applications in greenfield environments or at a massive scale (+50 Million Users, 1 Million Orders a day)
-- 🏊‍♂️🚴‍♂️🏃‍♂ On top of competing in running and triathlon races from 10k to Ironman, I'm a certified running coach and hold several long-distance courses, ask me anything about that too!
-- 📫 You can reach me at my Github handle @gmail.com (trying to avoid email crawlers) 
+- 🏊‍♂️🚴‍♂️🏃‍♂ On top of competing in running and triathlon races from 10k to Ironman, I'm a certified running coach and hold several long-distance courses. Ask me anything about that too!
+- 📫 You can reach me at my GitHub handle @gmail.com (trying to avoid email crawlers) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edsancha&label=Profile%20views&color=0e75b6&style=flat" alt="edsancha" /> </p>
 
