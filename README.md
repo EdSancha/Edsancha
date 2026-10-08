@@ -1,6 +1,6 @@
 ## Hi there, I'm Eduardo 👋
 
-- 🔭 I’m currently working on applying everything AI: Cursor, Claude Code, and Agentic frameworks
+- 🔭 I’m currently working on applying everything AI: Custom Harnesses, Claude Code, Codex, Cursor, and Agentic frameworks
 - 🌱 I’m continuously learning about development processes, flow engineering, and developer experience
 - 💬 Ask me about developing consumer applications in greenfield environments or at a massive scale (+50 Million Users, 1 Million Orders a day)
 - 🏊‍♂️🚴‍♂️🏃‍♂ On top of competing in running and triathlon races from 10k to Ironman, I'm a certified running coach and hold several long-distance courses. Ask me anything about that too!
