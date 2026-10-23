@@ -10,20 +10,11 @@
 
 How long I train across every sport, how much of it is hard (minutes in heart-rate zones 4 and 5), and how far I run. Refreshed daily from Garmin.
 
-<a href="https://edsancha.com/#fitness"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://edsancha.com/assets/garmin/training-dark.svg">
-  <img alt="Training time per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/training-light.svg">
-</picture></a>
+<a href="https://edsancha.com/#fitness"><img alt="Training time per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/training-auto.svg"></a>
 
-<a href="https://edsancha.com/#fitness"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://edsancha.com/assets/garmin/intensity-dark.svg">
-  <img alt="Hard minutes per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/intensity-light.svg">
-</picture></a>
+<a href="https://edsancha.com/#fitness"><img alt="Hard minutes per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/intensity-auto.svg"></a>
 
-<a href="https://edsancha.com/#fitness"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://edsancha.com/assets/garmin/running-dark.svg">
-  <img alt="Running distance per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/running-light.svg">
-</picture></a>
+<a href="https://edsancha.com/#fitness"><img alt="Running distance per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/running-auto.svg"></a>
 
 <sub>Made with <a href="https://github.com/EdSancha/garmin-heatmap">garmin-heatmap</a>. More on <a href="https://edsancha.com/#fitness">edsancha.com</a>.</sub>
 
