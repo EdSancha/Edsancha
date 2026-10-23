@@ -6,6 +6,27 @@
 - 🏊‍♂️🚴‍♂️🏃‍♂ On top of competing in running and triathlon races from 10k to Ironman, I'm a certified running coach and hold several long-distance courses. Ask me anything about that too!
 - 📫 You can reach me at my GitHub handle @gmail.com (trying to avoid email crawlers) 
 
+### 🏃 My last year of training
+
+How long I train across every sport, how much of it is hard (minutes in heart-rate zones 4 and 5), and how far I run. Refreshed daily from Garmin.
+
+<a href="https://edsancha.com/#fitness"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://edsancha.com/assets/garmin/training-dark.svg">
+  <img alt="Training time per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/training-light.svg">
+</picture></a>
+
+<a href="https://edsancha.com/#fitness"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://edsancha.com/assets/garmin/intensity-dark.svg">
+  <img alt="Hard minutes per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/intensity-light.svg">
+</picture></a>
+
+<a href="https://edsancha.com/#fitness"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://edsancha.com/assets/garmin/running-dark.svg">
+  <img alt="Running distance per day over the last year, from Garmin" src="https://edsancha.com/assets/garmin/running-light.svg">
+</picture></a>
+
+<sub>Made with <a href="https://github.com/EdSancha/garmin-heatmap">garmin-heatmap</a>. More on <a href="https://edsancha.com/#fitness">edsancha.com</a>.</sub>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edsancha&label=Profile%20views&color=0e75b6&style=flat" alt="edsancha" /> </p>
 
 <!--
